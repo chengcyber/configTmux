@@ -8,7 +8,7 @@ ln -s ~/configTmux/.tmux.conf ~/.tmux.conf
 
 - [TPM](https://github.com/tmux-plugins/tpm)
 - [Tmux sensible](https://github.com/tmux-plugins/tmux-sensible)
-
+- [Tmux continuum](https://github.com/tmux-plugins/tmux-continuum)
 
 # Theme
 
