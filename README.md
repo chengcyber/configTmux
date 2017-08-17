@@ -13,3 +13,11 @@ ln -s ~/configTmux/.tmux.conf ~/.tmux.conf
 # Theme
 
 - [tmux-onedark-theme](https://github.com/odedlaz/tmux-onedark-theme)
+
+# Other
+
+- [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
+
+```
+brew install reattach-to-user-namespace
+```
