@@ -1,8 +1,19 @@
-# Link
+# Usage
 
 ```
+brew install tmux
+brew install reattach-to-user-namespace
+
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+```
+cd ~
+mv .tmux.conf .tmux.conf.old
 ln -s ~/configTmux/.tmux.conf ~/.tmux.conf
 ```
+
+open tmux, use `Prefix + I` install plugins
 
 # Plugins
 
@@ -18,6 +29,3 @@ ln -s ~/configTmux/.tmux.conf ~/.tmux.conf
 
 - [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
 
-```
-brew install reattach-to-user-namespace
-```
