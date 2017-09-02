@@ -1,3 +1,7 @@
+# Announcement
+
+deprecated this repo, here is the [new repo](https://github.com/kimochg/dotfiles)
+
 # Usage
 
 ```
